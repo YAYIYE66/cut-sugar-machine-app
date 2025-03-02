@@ -1,3 +1,4 @@
+#看到我证明可以从vs上更改代码
 import tkinter as tk
 from tkinter import ttk
 import random
